@@ -1,4 +1,4 @@
-# create-wp-cli-plugin
+# Create WP CLI Plugin
 
 > Scaffold a WordPress plugin with a WP-CLI command, `--dry-run` support, and WordPress best practices — in seconds.
 
